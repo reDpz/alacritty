@@ -911,4 +911,4 @@ font:
   #highlight_damage: false
 
 import:
-  - ~/.config/alacritty/alacritty-theme/themes/gruvbox_dark.yaml
+  - ~/.config/alacritty/gruvbox_dark.yaml
